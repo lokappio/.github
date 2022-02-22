@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://www.lokapp.io/">
-     <img width="18%" src="lokapp-logo-circle.png" alt="Lokapp logo" />
+     <img width="18%" src="https://raw.githubusercontent.com/lokappio/.github/main/profile/lokapp-logo-circle.png" alt="Lokapp logo" />
    </a>
 </p>
 
@@ -9,8 +9,18 @@
   <a href="https://demo.lokapp.io">Give a try</a>
 </p>
 
-[![Lokapp](https://img.shields.io/badge/Lokapp-https://lokapp.io-02188C.svg)](https://lokapp.io)
+[![Lokapp](https://img.shields.io/badge/-lokapp.io-02188C?style=flat&logo=data:image/png;base64,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)](https://lokapp.io)
 
 **Lokapp is a tool that helps you manage the translations of all your mobile and web projects.**
 
-Store all your translations and export them as Android, iOS or JSON ready-to-use localized files.
+### Lokapp-API
+
+Find out the [API](https://github.com/lokappio/lokapp-api) used by Lokapp to store and manage your translations.
+
+### Lokapp-Client
+
+If you don't want to build your own client, we provide you a [web app](https://github.com/lokappio/lokapp-client) using the API mentioned above.
+
+It lets you easily deal with your translations and export them as Android, iOS or JSON ready-to-use localized files.
+
+There is also a [Docker compose](https://github.com/lokappio/lokapp-docker-compose) to deploy both the API and the web app.
